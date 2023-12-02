@@ -1,0 +1,25 @@
+MODEL:
+  TYPE: cvt
+  NAME: cvt_13_224
+  CVT:
+    INIT: 'trunc_norm'
+    NUM_STAGES: 3
+    PATCH_SIZE: [7, 3, 3]
+    PATCH_STRIDE: [4, 2, 2]
+    PATCH_PADDING: [2, 1, 1]
+    DIM_EMBED: [64, 192, 384]
+    NUM_HEADS: [1, 3, 6]
+    DEPTH: [1, 2, 10]
+    MLP_RATIO: [4.0, 4.0, 4.0]
+    ATTN_DROP_RATE: [0.0, 0.0, 0.0]
+    DROP_RATE: [0.0, 0.0, 0.0]
+    DROP_PATH_RATE: [0.0, 0.0, 0.1]
+    QKV_BIAS: [True, True, True]
+    CLS_TOKEN: [False, False, True]
+    POS_EMBED: [False, False, False]
+    QKV_PROJ_METHOD: ['dw_bn', 'dw_bn', 'dw_bn']
+    KERNEL_QKV: [3, 3, 3]
+    PADDING_KV: [1, 1, 1]
+    STRIDE_KV: [2, 2, 2]
+    PADDING_Q: [1, 1, 1]
+    STRIDE_Q: [1, 1, 1]
