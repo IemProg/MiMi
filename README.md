@@ -1,4 +1,4 @@
-# Mini but Mighty: Finetuning ViTs with Mini Adapters
+# Mini but Mighty: Finetuning ViTs with Mini Adapters (WACV2024)
 
 <div align="center">
 
