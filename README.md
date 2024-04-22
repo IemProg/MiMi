@@ -13,7 +13,7 @@
 </div>
 </div>
 
-The code repository for "[Mini but Mighty: Finetuning ViTs with Mini Adapters]([https://arxiv.org/abs/2311.03873](https://openaccess.thecvf.com/content/WACV2024/html/Marouf_Mini_but_Mighty_Finetuning_ViTs_With_Mini_Adapters_WACV_2024_paper.html))"(_WACV2024_) in PyTorch.
+The code repository for "[Mini but Mighty: Finetuning ViTs with Mini Adapters (WACV2024)]([https://openaccess.thecvf.com/content/WACV2024/html/Marouf_Mini_but_Mighty_Finetuning_ViTs_With_Mini_Adapters_WACV_2024_paper.html](https://openaccess.thecvf.com/content/WACV2024/html/Marouf_Mini_but_Mighty_Finetuning_ViTs_With_Mini_Adapters_WACV_2024_paper.html))" in PyTorch.
 
 ## Abstract
 
