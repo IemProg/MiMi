@@ -15,6 +15,9 @@
 
 The code repository for "[Mini but Mighty: Finetuning ViTs with Mini Adapters (WACV2024)]([https://openaccess.thecvf.com/content/WACV2024/html/Marouf_Mini_but_Mighty_Finetuning_ViTs_With_Mini_Adapters_WACV_2024_paper.html](https://openaccess.thecvf.com/content/WACV2024/html/Marouf_Mini_but_Mighty_Finetuning_ViTs_With_Mini_Adapters_WACV_2024_paper.html))" in PyTorch.
 
+
+📣 Published as a conference paper at WACV 2024
+
 ## Abstract
 
 Vision Transformers (ViTs) have become one of the dom-
